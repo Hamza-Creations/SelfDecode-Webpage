@@ -1,0 +1,1033 @@
+body{
+    *{margin: 0;
+    padding: 0;}
+left: 0%;
+top: 0%;
+}
+.selfdecodeintro{
+    background: #CCD0E1;
+    width:1303px;
+    height: 750px;
+}
+#selfdecodenavbar{
+    width: 1260px;
+height: 50px;
+margin-left: 25px;
+}
+#selfdecodepic{
+    width: 207px;
+    height: 40px;
+    margin-top: 15px;
+    margin-left: 10px;   
+}
+#navbarcontents{
+    padding-top: 20px;
+    padding-left: 55px;
+    padding-right: 10px;
+}
+.nav-item{
+    margin-right: 40px;
+}
+#selfdecodebutton{
+    margin-top: 22px;
+    height: 50px;
+    width: 156px;
+    border: 1px solid #4568F9
+}
+#buttonfont{
+    font-family: DM Sans;
+font-size: 18px;
+font-weight: 700;
+color:#4568F9;
+margin-top: 4px;
+}
+.dnatest{
+    display: flex;
+    justify-content: space-between;
+}
+.aboutdnatest{
+    height: 650.55px;
+    margin-top: 155px;
+    margin-left: 100px;
+    }
+    .healthcontent{
+        font-family: DM Sans;
+    font-size: 35px;
+    font-weight: 400;
+    line-height: 55px;
+    text-align: left;
+    }
+    #gray{
+        color: rgb(67, 74, 84, 1)
+    }
+#healthheading{
+    font-family: DM Sans;
+font-size: 20px;
+font-weight: 700;
+line-height: 26.04px;
+color: #FF9900;
+}
+#gene{
+color: #4568F9;
+
+}
+    #dnatestkitpicsetting{
+        width: 675px;
+        height: 550px;
+        margin-top: 100px;
+        margin-right: 50px;
+    }
+    .dnadefination{
+        width: 1303px;
+height: 700px;
+
+    }
+    #row1{
+        padding-top: 100px;
+        padding-left: 90px;
+        padding-right: 70px;
+        display: flex;
+        justify-content: space-between;
+    }
+    #question{
+        font-family: DM Sans;
+font-size: 45px;
+font-weight: 400;
+line-height: 55px;
+text-align: left;
+}
+#col1{
+    font-family: Nunito Sans;
+    font-size: 12px;
+    font-weight: 200;
+    line-height: 25px;
+    text-align: left;
+}
+#dnacolor{
+    color:#FF9900
+}
+#dnavideoimage{
+    width: 1150px;
+height: 500px;
+margin-top: 50px;
+margin-left: 90px;
+border-radius: 10px;
+}
+.dnainfluence{
+    width: 1303px;
+height: 505px;
+margin-top: 150px;
+}
+.influence{
+    margin-left: 90px;
+}
+#spit{
+    color: #4568F9;
+}
+#healthinfluence{
+    font-family: DM Sans;
+font-size: 45px;
+font-weight: 400;
+line-height: 55px;
+text-align: left;
+}
+#mean{
+    color:#FF9900;
+}
+.find{
+    display:flex;
+    justify-content: space-between;
+    margin-left: 90px;
+    margin-right: 65px;
+}
+.findout{
+    font-family: Nunito Sans;
+font-size: 18px;
+font-weight: 400;
+line-height: 32px;
+text-align: left;
+color: #434A54;
+}
+#findbutton{
+    width: 245px;
+height: 60px;
+border-radius: 10px 10px 10px 10px;
+border: 1px solid #434A54;
+color: #434A54;
+}
+#card{
+    margin-top: 50px;
+    margin-left: 90px;
+    margin-right: 50px;
+}
+#card1{
+    background:  rgba(158, 28, 181, 0.1);
+    margin-right: 15px;
+    border-radius: 10px;
+}
+#drop{
+    width: 87.01px;
+height: 90px;
+margin-top: 30px;
+margin-left: 30px;
+}
+.about1{
+    margin-left: 15px;
+    margin-top: 35px;
+    width: 146px;
+    font-family: DM Sans;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    text-align: left;
+    color: #9E1CB5;
+}
+#card2{
+    background: rgba(11, 33, 123, 0.1);
+    margin-right: 15px;
+    border-radius: 10px;
+}
+.about2{
+    margin-left: 15px;
+    margin-top: 35px;
+    width: 215px;
+    font-family: DM Sans;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 32px;
+    text-align: left;
+    color: rgba(69, 104, 249, 1);
+}
+#card3{
+    background: rgba(128, 80, 9, 0.1);
+    margin-right: 15px;
+    border-radius: 10px;
+}
+.about3{
+    margin-left: 15px;
+    margin-top: 32px;
+    width: 120px;
+    font-family: DM Sans;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    text-align: left;
+    color: #FF9900;
+}
+
+#card4{
+    background: rgba(11, 117, 125, 0.1);
+    margin-right: 15px;
+    border-radius: 10px;
+}
+.about4{
+    margin-left: 15px;
+    margin-top: 32px;
+    width: 100px;
+    font-family: DM Sans;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    text-align: left;
+    color: rgba(57, 201, 212, 1);
+}
+#card5{
+    background: rgba(88, 117, 11, 0.1);
+    margin-right: 15px;
+    border-radius: 10px;
+}
+.about5{
+    margin-left: 15px;
+    margin-top: 32px;
+    width: 190px;
+    font-family: DM Sans;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    text-align: left;
+   color: #9DCC21;
+}
+.plan{
+    width:1303px;
+}
+.risk{
+    margin-top: 140px;
+    margin-left: 90px;
+}
+#spit1{
+    font-family: DM Sans;
+font-size: 16px;
+font-weight: 700;
+line-height: 25px;
+text-align: left;
+color: #4568F9;
+}
+.risk2{   font-family: DM Sans;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 40px;
+    text-align: left;
+}
+.risk3{
+    font-family: Nunito Sans;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: left;
+    color:rgba(67, 74, 84, 1) ;
+}
+#spit2{
+    font-family: DM Sans;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 40px;
+    text-align: left;
+    color:rgba(67, 74, 84, 1);
+}
+#skyblue{
+    color: #4568F9;
+}
+#myresultpic{
+    width: 700px;
+height: 450px;
+margin-top: 100px;
+margin-right: 30px;
+}
+#reportbutton{
+    width: 170px;
+    height: 55px;
+    margin-top: 10px;
+    border-radius: 10px 10px 10px 10px;
+    font-family: DM Sans;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 23.44px;
+    text-align: center;
+}
+.healthrecommend{
+    background: #011133;
+    width: 1303px;
+height: 650px;
+margin-top: 100px;
+}
+.textcenter{
+    padding-top: 100px;
+    margin-left: 162px;
+    margin-right: 162px;
+    font-family: DM Sans;
+    font-size: 45px;
+    font-weight: 400;
+    line-height: 55px;
+    text-align: center;
+    color: rgba(235, 250, 251, 1);
+}
+#textorange{
+    color:rgba(255, 153, 0, 1);
+}
+#row2{
+    margin-top: 100px;
+    margin-left: 70px;
+    margin-right: 10px;
+
+}
+#healthcard{
+border-radius: 10px;
+}
+#dnacard{
+    background: rgba(235, 250, 251, 0.1);
+    width: 560px;
+    height: 180px;
+    border-radius: 10px;
+}
+#selfcodecard{
+    background: rgba(235, 250, 251, 0.1);
+    width: 560px;
+    height: 180px;
+    margin-left: 70px;
+    border-radius: 10px;
+}
+#textfont1{
+    font-family: Nunito Sans;
+    font-size: 12px;
+    font-weight: 200;
+    line-height: 25px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+}
+#textfont2{
+    padding-top: 18px;
+    font-family: Nunito Sans;
+    font-size: 13.5px;
+    font-weight: 300;
+    line-height: 25px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+}
+.colorgreen{
+    color: rgba(173, 209, 77, 1);
+}
+.healthplan{
+    width: 1303px;
+height: 360px;
+background: rgba(241, 245, 250, 1);
+display: flex;
+justify-content: space-between;
+}
+#healthplanpic1{
+    margin-left: 280px;
+    margin-top: 10px;
+    height: 350px;
+    width: 450px;
+}
+.plandiscription{
+    margin-top: 120px;
+    margin-right: 250px;
+}
+
+.font45{
+    width: 390px;
+    font-family: DM Sans;
+font-size: 30px;
+font-weight: 400;
+line-height: 35px;
+text-align: left;
+color: rgba(67, 74, 84, 1);
+}
+.orangefont{
+    font-family: Nunito Sans;
+font-size: 11px;
+font-weight: 700;
+line-height: 32px;
+text-align: left;
+color: rgba(255, 153, 0, 1);
+}
+.grayfont{
+    width: 350px;
+    font-family: Nunito Sans;
+font-size: 11px;
+font-weight: 200;
+line-height: 20px;
+text-align: left;
+color: rgba(92, 103, 118, 1);
+}
+#get1{
+    margin-left: 25px;
+}
+#get{font-family: DM Sans;
+    font-size: 30px;
+    font-weight: 250;
+    line-height: 55px;
+    text-align: left;
+   color: rgba(67, 74, 84, 1);
+    }
+#primium{font-family: DM Sans;
+    font-size: 30px;
+    font-weight: 450;
+    line-height: 55px;
+    text-align: left;
+}
+#white{
+    font-family: Nunito Sans;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: left;
+}
+.pilot{
+    width: 1180px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 150px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.logo{
+    font-family: DM Sans;
+font-size: 18px;
+font-weight: 600;
+line-height: 30px;
+text-align: left;
+color: rgba(69, 104, 249, 1);
+}
+.trustpilot{
+    padding-right: 30px;
+    width: 180px;
+    height: 40px;
+}
+.seebutton{
+    width: 191px;
+height: 60px;
+border-radius: 10px;
+border: 1px;
+}
+.threecards3{
+    width: 1200px;
+    margin-left: 80px;
+    height: 400px;
+}
+#threecards{
+margin-top: 50px;
+}
+#c1{
+    margin-right: 15px;
+    border-radius: 10px;
+}
+.star{
+    margin-top: 5px;
+    margin-left: 5px;
+}
+#title1{
+    font-family: DM Sans;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: left;
+}
+#text1{
+    font-family: Nunito Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: left;
+    color: rgba(92, 103, 118, 1);
+}
+#name1{
+    font-family: Nunito Sans;
+font-size: 18px;
+font-weight: 700;
+line-height: 30px;
+text-align: left;
+color: rgba(9, 30, 63, 1);
+}
+.bgpic{
+    width: 1200px;
+    margin-top: 80px;
+    margin-left: 80px;
+    height: 400px;
+}
+#bgpic1{
+   border-radius: 40px;
+}
+#bgpic2{
+    display: flex;
+    justify-content: space-between;
+}
+#bgtitle{
+    margin-bottom: -28px;
+    font-family: DM Sans;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 40px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+}
+.w1{
+    font-family: DM Sans;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 40px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+}
+#bgtext{
+    margin-right: 215px;
+    font-family: Nunito Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+}
+#iphone{
+    height: 324px;
+    margin-top: 10px;  
+}
+.t1{
+    margin-top: 80px;
+    margin-left: 100px;
+}
+#bgimage{
+    height:350px;
+}
+
+.work{
+    width: 1200px;
+margin-top: 150px;
+margin-left: 80px;
+margin-right: 80px;
+height: 650px;
+}
+#gray1{
+    font-family: DM Sans;
+font-size: 45px;
+font-weight: 400;
+line-height: 55px;
+text-align: left;
+color: rgba(67, 74, 84, 1);
+}
+.find1{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+.findout1{
+    font-family: Nunito Sans;
+font-size: 16px;
+font-weight: 200;
+line-height: 25px;
+text-align: left;
+color: rgba(92, 103, 118, 1);
+}
+#card11{
+    margin-right: 10px;
+}
+#dnavid1{
+    height: 400px;
+    width: 389px;
+}
+#vidtext{
+    font-family: DM Sans;
+font-size: 25px;
+font-weight: 200;
+line-height: 30px;
+text-align: center;
+}
+.keep{
+    margin-top: 100px;
+}
+
+#keepcard{
+    height: 540px;
+    width: 1303px;
+    background: rgba(67, 74, 84, 1);
+    border-radius: 0px;
+}
+#keepbody{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+#keeptitle{
+    font-family: DM Sans;
+    font-size: 45px;
+    font-weight: 400;
+    line-height: 56px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+}
+#keeppara{
+    font-family: Nunito Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);   
+}
+#keepmail{
+    background: rgba(255, 255, 255, 1);
+    margin-left: 215px;
+    width: 800px;
+    height: 70px;
+}
+#keepinput{
+margin-right: -185px;
+}
+#keepbutton{
+    width: 175px;
+height: 60px;
+    background: rgba(255, 153, 0, 1);
+    color: rgba(255, 255, 255, 1);
+    border-radius: 10px;
+    margin: 5px;
+    font-family: DM Sans;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 23.44px;
+    text-align: center;
+    }
+    #keepfooter{margin-left: -1px;
+        width: 1303px;
+        display: flex;
+        justify-content: space-between;
+        background: rgba(9, 30, 63, 1);
+        border-radius: 0px;
+    }
+    .footerbody{  margin-left: 100px;
+        margin-top: 30px;
+        text-align: left;
+        font-family: DM Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 23px;
+color: rgba(245, 245, 245, 1);
+    }
+    .footerbody1{
+        margin-right: 100px;
+        margin-top: 30px;
+        text-align: right;
+        font-family: DM Sans;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 23px;
+        color: rgba(245, 245, 245, 1);
+        list-style: none;
+    }
+ @media(max-width: 1208px) {
+    .threecards3{
+        margin-right:0px;
+    }
+    .bgpic{
+        margin-right: 0px;
+    }
+#bgtext{
+    margin-right: 45px;
+    line-height: 25px;
+}    
+.t1{
+    margin-left: 60px;
+}
+}
+@media(max-width:1023px){
+    #threecards{
+        height: 300px;
+        width: 1190px;
+    margin-top: 50px;
+    }
+    .star{
+        margin-top: 10px;
+    margin-left: 10px;
+    }
+    #title{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    }
+    #text1{
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 25px;
+    }
+    .bgpic{
+        width: 1190px;
+    }
+    #selfdecodebutton {
+        margin-left: 20px;
+        margin-top: 10px;
+    }
+    .navbar-collapse {
+        background: white;
+        margin-top: 15px;
+    }
+}   
+@media (min-width:375px) and (max-width:575px){
+    #selfdecodebutton {
+             margin-top: 0px;
+    }
+    #navbarcontents {
+        padding-top: 0px;
+    }
+    .selfdecodeintro{
+        width: 1500px;
+    }
+    #selfdecodenavbar {
+        width: 1450px;
+    }
+    .dnadefination {
+        width: 1500px;
+    }
+    #row1{
+        padding-right:75px;
+    }
+    .dnainfluence {
+        width: 1500px;
+    }
+    #spit {
+        font-size: 25px;
+        color: #4568F9;
+    }
+    .find{
+        margin-right: 75px;
+    }
+    .findout {
+        font-size: 28px;
+    }
+    #findbutton {    
+        font-size: 20px;
+    font-weight: 200;
+}
+    #dnavideoimage {
+        width: 1325px;
+    }
+    #row2 {
+        margin-left: 390px;
+    }
+    .healthplan{
+        width: 1480px;
+    }
+    .plandiscription {
+        margin-top: 75px;
+    }
+        #card{
+            margin-right: 2px;
+            display: flex;
+        }
+        #card1{
+            width:18%;
+        }
+        #card2{
+            width:18%;
+        }
+        #card3{
+            width:18%;
+        }
+        #card4{
+            width:18%;
+        }
+        #card5{
+            width:19%;
+        }
+        .plan{
+           width: 1500px;
+        }
+        #spit1{
+            font-size: 20px;
+        }
+        .risk {
+            width: 70%;
+        }
+        #myresultpic {
+            width: 90%;
+            height: 450px;
+            margin-top: 100px;
+            margin-left: 13px;
+        }
+        .healthrecommend {
+            width: 1503px;
+            height: 800px;
+        }
+        .textcenter{
+            margin-left: 85px;
+        }
+        #row2 {
+            margin-left: 341px;
+        }
+        #textfont1{
+        list-style: none;
+        font-size: 16px;
+        font-weight: 200;
+        }
+        #textfont2 {
+            list-style: none;
+            margin-left: 15px;
+            padding-top: 18px;
+             font-size: 18px;
+            font-weight: 250;
+        }
+        #white {
+            margin-left: 20px;
+            font-size: 24px;
+            line-height: 35px;
+        }
+        .risk3 {
+            font-size: 25px;
+            font-weight: 500;  
+        }
+        #dnacard {
+            margin-bottom: 20px;
+            margin-left: 70px;
+       }
+       .orangefont {
+        font-size: 18px;
+        line-height: 25px;
+       }
+       .grayfont {
+        width: 365px;
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 25px;
+    }
+    .pilot {
+        width: 1360px;
+    }
+    #seebutton{
+        color: black;
+    }
+    #threecards{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #c1 {
+        width: 44%;
+        margin-bottom: 40px;
+        margin-right: 70px;
+    }
+    #col1 {
+    margin-left:100px;
+        font-size:18px;
+    }
+    .bgpic{
+        width: 1360px;
+        margin-top:300px;
+    }
+    .work {
+        width: 1360px;
+        margin-top: 100px;
+        margin-left: 80px;
+       }
+       .findout1 {
+        font-family: Nunito Sans;
+        font-size: 24px;
+    }
+    #card11 {
+        width: 75%;
+        margin-left: 150px;
+        margin-bottom: 40px;
+    }
+    #dnavid1 {
+        height: 500px;
+        width: 100%;
+    }
+    .keep {
+        margin-top: 1400px;
+    }
+    #keepcard {
+        width: 1503px;
+}
+#keepmail {
+    margin-left: 290px;
+    width: 900px;
+}
+#keepfooter {
+    width: 1503px;
+}
+}
+   @media (min-width:320px) and (max-width:374px){
+    
+.selfdecodeintro {
+    width: 1280px;
+}
+#selfdecodenavbar {
+    width: 1230px;
+}
+#navbarcontents {
+    padding-top: 30px;
+}
+.dnadefination {
+    width: 1280px;
+}
+.dnainfluence {
+    width: 1280px;
+}
+.plan {
+    width: 1280px;
+}
+.healthrecommend {
+    width: 1280px;
+    height: 800px;
+}
+.healthplan {
+    width: 1280px;
+}
+#threecards{
+    display: flex;
+    flex-wrap: wrap;
+}
+.work{
+    margin-top: 60px;
+}
+.find1 {
+        margin-right: 60px;
+}
+#card11 {
+    width: 75%;
+    margin-left: 115px;
+    margin-bottom: 25px;
+}
+#dnavid1 {
+    width: 100%;
+}
+.keep {
+    margin-top: 1060px;
+}
+#keepcard {
+    width: 1280px;
+}
+#keepfooter {
+    width: 1280px;
+}
+#c1 {
+    width: 47%;
+    margin-bottom: 12px;
+}
+    #card{
+        display: flex;
+    }
+    #card1{
+        width:18.8%;
+    }
+    #card2{
+        width:18.8%;
+    }
+    #card3{
+        width:18.8%;
+    }
+    #card4{
+        width:18.8%;
+    }
+    #card5{
+        width:19%;
+    }
+   
+    #row2 {
+        margin-left: 280px;
+    }
+    #textfont1{
+    list-style: none;
+    font-size: 16px;
+    font-weight: 200;
+    }
+    #textfont2 {
+        list-style: none;
+        margin-left: 15px;
+        padding-top: 18px;
+         font-size: 18px;
+        font-weight: 250;
+    }
+    #white {
+        margin-left: 40px;
+        font-size: 16px;
+        line-height: 35px;
+    }
+    .risk3 {
+        font-size: 18px;
+        font-weight: 500;  
+    }
+    #dnacard {
+        margin-bottom: 20px;
+        margin-left: 70px;
+   }
+   .orangefont {
+    font-size: 18px;
+    line-height: 25px;
+   }
+   .grayfont {
+    width: 365px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 25px;
+}
+.pilot {
+    width: 1118px;
+}
+#seebutton{
+    color: black;
+}
+
+#col1 {
+margin-left:100px;
+    font-size:18px;
+}
+.bgpic{
+    padding-right: 45px;
+    margin-top:200px;
+}
+   }
